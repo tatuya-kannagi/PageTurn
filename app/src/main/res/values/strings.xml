@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PageTurn</string>
+    <string name="accessibility_service_description">E-Inkデバイスのハードウェアキーをタップ操作に変換し、対応していないアプリでもページ送りを可能にします。</string>
+</resources>
